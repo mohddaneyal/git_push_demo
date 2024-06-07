@@ -1,2 +1,4 @@
 log.txt
 settings.txt
+*.log
+folder/project.properties
