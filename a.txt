@@ -4,3 +4,4 @@ add new feature.
 
 add a new line
 added by local repo
+added ny remote
